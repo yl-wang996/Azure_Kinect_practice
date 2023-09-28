@@ -22,3 +22,6 @@ https://github.com/microsoft/Azure_Kinect_ROS_Driver
 
 ### Azure Kinect example
 https://github.com/microsoft/Azure-Kinect-Samples
+
+### Open3d
+http://www.open3d.org/docs/release/
