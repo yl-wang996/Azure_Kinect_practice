@@ -13,8 +13,12 @@
 ## Run without sudo
 Copy 'scripts/99-k4a.rules' into '/etc/udev/rules.d/'. refer to [here](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/docs/usage.md#linux-device-setup).
     
-# 2. Python API
+# 2. Some Links
+### Python API
 https://unanancyowen.github.io/k4asdk_python_apireference/
 
-# 3. ROS API
+### ROS API
 https://github.com/microsoft/Azure_Kinect_ROS_Driver
+
+### Azure Kinect example
+https://github.com/microsoft/Azure-Kinect-Samples
