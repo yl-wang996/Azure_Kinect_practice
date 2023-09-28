@@ -15,3 +15,6 @@ Copy 'scripts/99-k4a.rules' into '/etc/udev/rules.d/'. refer to [here](https://g
     
 # 2. Python API
 https://unanancyowen.github.io/k4asdk_python_apireference/
+
+# 3. ROS API
+https://github.com/microsoft/Azure_Kinect_ROS_Driver
